@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 Feb 2021 23:04:54 at https://lp.pracialrepasses.com/ https://lp.pracialrepasses.com/assinatura/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://lp.pracialrepasses.com/ https://lp.pracialrepasses.com/assinatura/ -O1 "C:\Users\acr\Desktop\all site pracial\pracial" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:04:56	Warning: 	Moved Permanently for https://lp.pracialrepasses.com/
+23:04:56	Warning: 	File has moved from https://lp.pracialrepasses.com/ to https://lp.pracialrepasses.com/gho-pre-inscricao/
+23:16:02	Error: 	"Forbidden" (403) at link https://lp.pracialrepasses.com/xmlrpc.php?rsd (from https://lp.pracialrepasses.com/assinatura/)
+23:16:02	Warning: 	Moved Permanently for https://lp.pracialrepasses.com/?p=213
+23:16:02	Warning: 	File has moved from https://lp.pracialrepasses.com/?p=213 to https://lp.pracialrepasses.com/assinatura/
+23:16:02	Warning: 	Moved Permanently for https://lp.pracialrepasses.com/?p=367
+23:16:02	Warning: 	File has moved from https://lp.pracialrepasses.com/?p=367 to https://lp.pracialrepasses.com/gho-pre-inscricao/
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 11 seconds : 144 links scanned, 139 files written (12482113 bytes overall), 56 files updated [4050950 bytes received at 6037 bytes/sec], 2548825 bytes transferred using HTTP compression in 27 files, ratio 37%, 4.3 requests per connection
+(1 errors, 6 warnings, 0 messages)
